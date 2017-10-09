@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dinghj:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dinghj.war">
+      <element id="artifact" artifact-name="dinghj:war exploded" />
+    </root>
+  </artifact>
+</component>
